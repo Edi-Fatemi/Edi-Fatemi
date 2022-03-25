@@ -1,6 +1,6 @@
 ### Hi there, I'm Ebrahim Fatemi - aka Edi-Fatemi 🙂
 
-![codepen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/edi-fatemi)
 
 ## I'm a Self-Taught Front-End Web Developer!
 
@@ -22,5 +22,3 @@
 <img align="left" alt="Github" width="26" src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%406%2Ficons%2Fgithub.svg" />
 
 <img align="left" alt="Git" width="26" src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%406%2Ficons%2Fgit.svg&fill=orangered" />
-
-[codepen]: https://codepen.io/edi-fatemi
