@@ -1,4 +1,4 @@
-### Hi there, I'm Ebrahim Fatemi - aka Edi-Fatemi 🙂
+### Hi there, I'm Ebrahim Fatemi - aka <span style="font-weight: bold"> Edi-Fatemi </span> 🙂
 
 ## I'm a Self-Taught Front-End Web Developer!
 
