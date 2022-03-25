@@ -16,7 +16,6 @@
 
 <img align="left" alt="Visual Studio Code" width="26" src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%406%2Ficons%2Fvisualstudiocode.svg&fill=deepskyblue" />
 
-<img align="left" alt="Github" width="26" src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.
-net%2Fnpm%2Fsimple-icons%406%2Ficons%2Fgithub.svg&fill=white" />
+<img align="left" alt="Github" width="26" src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%406%2Ficons%2Fgithub.svg&fill=white" />
 
-<img align="left" alt="JavaScript" width="26" src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%406%2Ficons%2Fgit.svg&fill=orangered" />
+<img align="left" alt="Git" width="26" src="https://svg-rewriter.sachinraja.workers.dev/?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fnpm%2Fsimple-icons%406%2Ficons%2Fgit.svg&fill=orangered" />
