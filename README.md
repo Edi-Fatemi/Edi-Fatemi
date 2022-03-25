@@ -3,6 +3,7 @@
 ## I'm a Self-Taught Front-End Web Developer!
 
 - <img align="left" alt="learning emoji" width="22px" src="https://play-lh.googleusercontent.com/KJQm72EUuAuLaMRdDGzlz5tmtNOxxwD90J5I2uIIMVttgZbK2fK8768TXlBGHNDNpAQ" />I'm currently learning JavaScript
+<hr />
 
 ### Language and Tools
 
