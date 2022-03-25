@@ -1,10 +1,10 @@
 ### Hi there, I'm Ebrahim Fatemi - aka Edi-Fatemi 🙂
 
-![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)
+![codepen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)
 
 ## I'm a Self-Taught Front-End Web Developer!
 
-- <img align="left" alt="learning emoji" width="22px" src="https://play-lh.googleusercontent.com/KJQm72EUuAuLaMRdDGzlz5tmtNOxxwD90J5I2uIIMVttgZbK2fK8768TXlBGHNDNpAQ" />I'm currently learning JavaScript
+- <img align="left" alt="learning emoji" width="22px" src="https://play-lh.googleusercontent.com/KJQm72EUuAuLaMRdDGzlz5tmtNOxxwD90J5I2uIIMVttgZbK2fK8768TXlBGHNDNpAQ" /> I'm currently learning JavaScript
 <hr />
 
 ### Language and Tools
