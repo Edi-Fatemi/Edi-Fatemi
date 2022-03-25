@@ -1,7 +1,6 @@
 ### Hi there, I'm Ebrahim Fatemi - aka Edi-Fatemi 🙂
 
 [![CodePen](https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/edi-fatemi)
-[![CodePen](https://img.shields.io/badge/website?label=CodePen&style=for-the-badge&url=https%3A%2F%2Fcodepen.io)](https://codepen.io)
 
 ## I'm a Self-Taught Front-End Web Developer!
 
